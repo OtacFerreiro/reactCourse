@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "Calça",
+      "price": 199.9
+    },
+    {
+      "id": "3",
+      "name": "Boné",
+      "price": 34.5
+    },
+    {
+      "id": "9b1e",
+      "name": "Sunga",
+      "price": "45.5"
+    },
+    {
+      "id": "4ec7",
+      "name": "Bermuda",
+      "price": "49.9"
+    },
+    {
+      "id": "6cd8",
+      "name": "Chinelo",
+      "price": "69"
+    },
+    {
+      "id": "799f",
+      "name": "Sapato",
+      "price": "89"
+    }
+  ]
+}
