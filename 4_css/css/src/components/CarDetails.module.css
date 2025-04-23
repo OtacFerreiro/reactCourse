@@ -1,0 +1,19 @@
+.title_carDetails {
+    color: yellow
+}
+
+.card_carDetails {
+    padding: 5px;
+    margin: 10px;
+    border: 5px black solid;
+    background-color: purple;
+    color: yellow;
+}
+
+.label_carDetails {
+    font-weight: bold;
+}
+
+.p_carDetails {
+    margin: 5px
+}
